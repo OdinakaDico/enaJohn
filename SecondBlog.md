@@ -58,6 +58,7 @@ ChatGPT's role in healthcare is not just about technological advancement but abo
 
 1. "Integrating AI in Healthcare: Ethical and Design Considerations," Journal of Healthcare Innovation.
 2. "Chatbots in Healthcare: A Case Study," Healthcare Tech Magazine.
-3. "The Future of AI in Healthcare: Opportunities and Challenges," by Dr. Jane Smith, published in Medical AI Today.
+3. This is really captivating
+4. "The Future of AI in Healthcare: Opportunities and Challenges," by Dr. Jane Smith, published in Medical AI Today.
 
 
