@@ -13,7 +13,7 @@ if [ ! -f "$SUBSCRIBERS_FILE" ]; then
     exit 1
 fi
 
-# Loop through the list of email
+# Loop through the list of subscribers and send email to each one
 while IFS= read -r email; do
     # Send the email using the 'mail' command
     echo "$BODY" | mail -s "$SUBJECT" "$email"
