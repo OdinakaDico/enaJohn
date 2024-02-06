@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Set the subject and body of the 
+# Set the subject and body of the email
 SUBJECT="New Blog Post Published!"
 BODY="A new post has been published on my blog. Check it out at: https://github.com/23W-GBAC/enaJohn/tree/main"
 
